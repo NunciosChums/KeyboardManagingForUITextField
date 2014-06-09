@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88DBF5DD-D9FA-4375-9138-14944A3B2C9B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KeyboardManaging</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC75139A-7869-4332-A75B-19217BA7DC2D</key>
+		<string>https://github.com/susemi99/KeyboardManagingForUITextField.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KeyboardManaging/KeyboardManaging.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC75139A-7869-4332-A75B-19217BA7DC2D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/susemi99/KeyboardManagingForUITextField.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC75139A-7869-4332-A75B-19217BA7DC2D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC75139A-7869-4332-A75B-19217BA7DC2D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KeyboardManagingForUITextField</string>
+		</dict>
+	</array>
+</dict>
+</plist>
